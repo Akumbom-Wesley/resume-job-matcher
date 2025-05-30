@@ -1,0 +1,11 @@
+#Virtual Envs
+venv/
+
+#db
+db.sqlite3
+
+#media
+media/
+
+#environment
+.env
